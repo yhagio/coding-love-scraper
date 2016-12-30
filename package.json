@@ -1,0 +1,24 @@
+{
+  "name": "coding_love_scraper",
+  "version": "0.1.0",
+  "description": "Node.js Coding Love Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Coding",
+    "Love",
+    "Scraper",
+    "Scrape",
+    "Web",
+    "gif"
+  ],
+  "author": "Yuichi Hagio <yhagio87@gmail.com> (http://github.com/yhagio)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
